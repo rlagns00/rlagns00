@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<MacroUpdate>
+	<update appID="QuickBitPlus">
+	<version>1.0.7504.24838</version>
+	<url>http://jihae0122.dothome.co.kr/QuickBitPlus.exe</url>
+	<fileName>QuickBitPlus.exe</fileName>
+	<md5>8f0acac3a182c03ba6b19476cd5decd0</md5>
+	<description>자세한 업데이트 내역은 퀵비트 카페 참조.</description>
+	<launchArgs>a</launchArgs>
+	</update>
+</MacroUpdate>
